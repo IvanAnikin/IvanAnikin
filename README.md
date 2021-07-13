@@ -10,6 +10,6 @@
       https://supercoolserver.azurewebsites.net/api/Default/About_Me
 
 - My two main projects are:
-    https://github.com/IvanAnikin/AutopilotCar
-    https://github.com/IvanAnikin/ml_games
+    - https://github.com/IvanAnikin/AutopilotCar 
+    - https://github.com/IvanAnikin/ml_games
   hope you'l like 'em
