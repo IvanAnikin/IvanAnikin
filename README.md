@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Machine Learning project if I get a chance to
 
 - 📫 Contact info: 
-      ivan.anikin@ouutlook.com 
+      ivan.anikin@outlook.com 
       +420 730 953 393 
       
 - You can find more information about me on this page: 
@@ -14,4 +14,4 @@
     - https://github.com/IvanAnikin/AutopilotCar 
     - https://github.com/IvanAnikin/ml_games
   
-  hope you'l like 'em
+  hope you'll like 'em
