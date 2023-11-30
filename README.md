@@ -9,7 +9,8 @@
  
 - 📫 Contact info: 
       ivan.anikin@outlook.com 
-      +420 730 953 393 
+      +420 735 852 353
+      ivan-anikin.com
       
 - You can find more information about me on this page: 
       https://supercoolserver.azurewebsites.net/api/Default/About_Me
